@@ -1,0 +1,26 @@
+.title {
+  border-bottom: 3px plum solid;
+}
+
+.todos {
+  display: flex;
+  flex-direction: column;
+}
+
+.todo {
+  color: darkslategray;
+  background-color: ghostwhite;
+  border-radius: 10px;
+  margin: 5px;
+  border: 1px black solid;
+  padding: 14px;
+}
+
+.todo-check {
+  float: right;
+}
+
+.todo-title {
+  font-weight: bold;
+}
+
